@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>My Example</title>
+        <style>
+            body {background-image: linear-gradient(to top, #30cfd0 0%, #330867 100%);
+                font-size: 1.1em;
+            }
+            h1 {
+                color: Red;
+            }
+            #intro {
+                font-size: 1.3em;
+            }
+            .colorful {
+                color: yellow;
+            }
+            
+        </style>
+    </head>
+    <body>
+    <a href="#"><img class src="http://www.lavnercampsandprograms.com/wp-content/themes/blankslate-child-01/images/logo.png"></a>
+        <h1>Hello Lavner Camp</h1>
+        <p id="intro">I created this to demonstrate basic html and css skills</p>
+        <p class="colorful">this is colored text</p>
+        <p>this is normal text</p>
+        <p> These are Radio Buttons</p>
+        <label><input type="radio" name="Radio"> This is a Radio Button</label>
+        <label><input type="radio" name="Radio"> This is a Radio Button</label>
+        <h1></h1>
+        <p1>These are CheckBoxes</p1>
+        <h1></h1>
+        <label><input type="checkbox" name="checkbox"> This is a checkbox Button</label>
+        <label><input type="checkbox" name="checkbox"> This is a checkbox Button</label>
+        <h1></h1>
+        <p> These are a submit box and button<p>
+        <input type="text" placeholder="I am a submit box" required>
+        <button type="submit">I am the submit button</p>
+        <p>this is a listbox</p>
+        <select name="list" multiple="multiple">
+    <option> i am a listbox</option>
+    <option>option 1</option>
+    <option>option 2</option>
+    <option>option 3</option>
+    <option>option 4</option>
+    <option>option 5</option>
+ </select>
