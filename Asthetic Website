@@ -1,0 +1,25 @@
+<style>
+body {
+    background-image:url('https://i.marketingprofs.com/assets/images/articles/content/180201-lott-skateboard-kid-gif.gif');
+    background-size:100%;
+    background-repeat: repeat-y;
+    background-attachment: fixed;
+    height:100%;
+    width:100%;
+}
+p{
+    
+    text-align:center;
+    font-size:50px;
+    line-height: 200px;
+    margin: auto;
+    margin-top: -100px;
+    position: absolute;
+    top: 50%;
+    width: 100%;
+    left: 0;
+    opacity: 0.7;
+}
+</style>
+
+<p><a href="">His future starts now</a></p>
