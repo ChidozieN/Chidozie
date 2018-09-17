@@ -3,5 +3,5 @@ land = input(name+" The one who is going to save our land, Where do you hail fro
 race = input(name+" from "+land+" if I may be so bold you look diffrent from our people, may I ask your race" )
 print (name+" the brave,the "+race+" who hails from "+land+" will save us all ")
 start = input("Are you ready to being your jounrny "+name+" the brave" )
-if start == "yes" or start == " yes": print ("thank you "+name+", Unfortanatly torry the wise just solved the conflict. But we will be sure to send a pigeon to "+land+" next time")
+if start == "yes" or start == " yes": print ("thank you "+name+", Unfortunatly torry the wise just solved the conflict. But we will be sure to send a pigeon to "+land+" next time")
 else : print("We do not understand slang "+name+" Please my mind can only comprehend yes")
