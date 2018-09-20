@@ -1,0 +1,87 @@
+
+<style>
+  
+
+  h1 {
+    font-size: 22px;
+  }
+
+  p {
+    font-size: 16px;
+    font-family: monospace;
+  }
+
+</style>
+
+<h1>Chidozie Nwaija</h1>
+
+<main>
+  <p>Computer Science Major </p>
+  <p>University of Memphis </p>
+  <p>Cpnwaija@memphis.edu</p>
+  <p>615-668-0697</p>
+  
+  <div>
+    <p>Skills</p>
+    <ul>
+      <li>Experience in JAVA, Python, CSS, and HTML. Basic Javascript skills
+</li>
+      <li>Well acquainted with Windows and linux based systems such as ubuntu
+</li>
+      <li>Experience in both Microsoft and Google Suite</li>
+      <li>Experience in web design</li>
+      <li>Ready and hoping to learn</li>
+    </ul>
+    <p>Current Projects</p>
+    <ul>
+      <li>Dungeons and Dragon instance: This is a Dungeons and Dragons instance created entirely in python. It implements booleans,variables,strings,scanners and radomizers. All of which were learned using MIT Opencourseware</li>
+      <li>Supply and Demand Chart : This Supply and Demand chart was created in java implementing variables,scanners, and if else statements to create a chart that can tell you whether an object will rise in supply or demand</li>
+      <li>Lavner Websites: This Website was created using HTML and CSS to demonstrate web design fundamentals such as radio and check buttons to show various elements of web creation</li>
+      <li>This resume: Basic CSS and HTML elements implemented in something I would use in everyday life </li>
+    </ul>
+    <p>Work Experience</p>
+    <ul>
+     <li>Kroger: Being a kroger employee allowed me to constantly develop people skills, meeting new people every few minutes and making sure they left happy customers
+</li>
+     <li>
+Trapped escape game: As a game host my job was running the escape game, making sure guest have a smooth experience and do not get too frustrated at puzzles. Giving hints when asked and talking to them before and after the game to make sure there experience was pleasurable.
+ 
+</li>
+     <li>
+Lavner Camps: As a tech instructor I taught kid basic skills in a large variety of things, whether it be game design in unity for VR or Cad skills for 3d printing to teaching them enough java to perform simple task like modify minecraft code, I had to be able to teach myself the skill in a way that i understood it proficient enough to teach kids how to use it.
+</li>
+     <li>
+Postmates: Working postmates(food carrier taught me self drive when already engaged in 2 other jobs.
+</li>
+    </ul>
+    <p>Education</p>
+    <ul>
+      <li>Bachelor of Computer Engineering in Undergraduate
+The University of Memphis - Memphis, TN
+May 2022
+</ul>
+    <p>Involvment</p>
+    <ul>
+<li>Ace Mentors: Ace Mentors       	August 2016-June 2017
+A program that gathers professionals and students to job shadow and work together yearlong to eventually finish a group project.Teaching me industry skills used by engineers and getting me a 1000 dollar scholarship that only 2 person at a school could get.
+</li>
+<li>Hackathon: I attended the google kickstart practice and hope to attend that. I am also attending HackMemphis, But if I am being honest I would like to sign up for every hackathon because I like the premise and enjoyed the experience, even though I did not do as well as I had hoped.</li>
+<li>Puzzles and Riddles:I enjoy solving riddles from time to time. My favorite is einstein's riddle</li>
+<li>ACM: The Association for Computing Machinery has a chapter on my campus of which I have joined</li>
+<li>BDPA: Black Data Processing Associates has a club on my campus which I have joined as well</li>
+</ul>
+
+
+    </ul>
+
+
+  </div>
+  <p>Please insert your choice</>
+  <form action= Submit Answer>
+    <label><input type="radio" name="Why you got accepted" checked> Yes</label>
+    <label><input type="radio" name="Why I got accepted"> Yes</label><br>
+    <p>Do You have any comment about Chidozie</>
+    <input type="text" placeholder="Down until knowledge is aquired" required>
+    <button type="submit">Submit</button>
+  </form>
+</main>
